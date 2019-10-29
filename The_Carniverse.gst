@@ -267,7 +267,7 @@
             <characteristic name="Type" typeId="255b-ab91-2e13-6840">Pistol</characteristic>
             <characteristic name="Range" typeId="3f79-d8e0-6a69-592a">12&quot;</characteristic>
             <characteristic name="DMG" typeId="5b51-1afc-813e-d0cc">2</characteristic>
-            <characteristic name="FR" typeId="0723-6d4f-2abd-8f80"/>
+            <characteristic name="FR" typeId="0723-6d4f-2abd-8f80">1</characteristic>
             <characteristic name="Push" typeId="4f48-5f9a-efe0-deaa">N/A</characteristic>
             <characteristic name="Clip Size" typeId="fd5c-7fde-0a07-703c">10</characteristic>
             <characteristic name="Special Rules" typeId="45a7-a97e-a321-7cf9"/>
@@ -350,7 +350,7 @@
             <characteristic name="Type" typeId="255b-ab91-2e13-6840">Rifle</characteristic>
             <characteristic name="Range" typeId="3f79-d8e0-6a69-592a">24&quot;</characteristic>
             <characteristic name="DMG" typeId="5b51-1afc-813e-d0cc">3</characteristic>
-            <characteristic name="FR" typeId="0723-6d4f-2abd-8f80"/>
+            <characteristic name="FR" typeId="0723-6d4f-2abd-8f80">1</characteristic>
             <characteristic name="Push" typeId="4f48-5f9a-efe0-deaa">1</characteristic>
             <characteristic name="Clip Size" typeId="fd5c-7fde-0a07-703c">6</characteristic>
             <characteristic name="Special Rules" typeId="45a7-a97e-a321-7cf9"/>
@@ -368,7 +368,7 @@
             <characteristic name="Type" typeId="255b-ab91-2e13-6840">Rifle</characteristic>
             <characteristic name="Range" typeId="3f79-d8e0-6a69-592a">18&quot;</characteristic>
             <characteristic name="DMG" typeId="5b51-1afc-813e-d0cc">4</characteristic>
-            <characteristic name="FR" typeId="0723-6d4f-2abd-8f80"/>
+            <characteristic name="FR" typeId="0723-6d4f-2abd-8f80">2</characteristic>
             <characteristic name="Push" typeId="4f48-5f9a-efe0-deaa">1</characteristic>
             <characteristic name="Clip Size" typeId="fd5c-7fde-0a07-703c">10</characteristic>
             <characteristic name="Special Rules" typeId="45a7-a97e-a321-7cf9">Loud 1</characteristic>
@@ -451,7 +451,7 @@
             <characteristic name="Type" typeId="255b-ab91-2e13-6840">Heavy</characteristic>
             <characteristic name="Range" typeId="3f79-d8e0-6a69-592a">16&quot;</characteristic>
             <characteristic name="DMG" typeId="5b51-1afc-813e-d0cc">4</characteristic>
-            <characteristic name="FR" typeId="0723-6d4f-2abd-8f80"/>
+            <characteristic name="FR" typeId="0723-6d4f-2abd-8f80">4</characteristic>
             <characteristic name="Push" typeId="4f48-5f9a-efe0-deaa">1</characteristic>
             <characteristic name="Clip Size" typeId="fd5c-7fde-0a07-703c">15</characteristic>
             <characteristic name="Special Rules" typeId="45a7-a97e-a321-7cf9">Loud 2, Bulky 2, SLow Reload</characteristic>
