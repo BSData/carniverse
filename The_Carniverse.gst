@@ -204,9 +204,9 @@
             <characteristic name="AP" typeId="ac1f-b12d-4cfb-8e0d">6</characteristic>
             <characteristic name="S" typeId="c461-c8e9-e4a5-e089">3</characteristic>
             <characteristic name="M" typeId="522c-1090-e379-243f">3</characteristic>
-            <characteristic name="STR" typeId="d140-7673-cf5f-d2fe"/>
+            <characteristic name="STR" typeId="d140-7673-cf5f-d2fe">3</characteristic>
             <characteristic name="DEX" typeId="de64-c2e9-b4c0-2c0d">3</characteristic>
-            <characteristic name="INT" typeId="b4bc-fadb-804f-38f0"/>
+            <characteristic name="INT" typeId="b4bc-fadb-804f-38f0">3</characteristic>
             <characteristic name="CON" typeId="8c42-9869-b037-dccf">3</characteristic>
             <characteristic name="HP" typeId="3e25-1da5-6637-f3af">4</characteristic>
             <characteristic name="BR" typeId="f620-ac41-03cb-f84d">3</characteristic>
